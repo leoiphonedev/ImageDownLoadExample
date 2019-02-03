@@ -11,8 +11,6 @@ import Kingfisher
 
 class ViewController: UIViewController {
     @IBOutlet weak var imgvHeader: UIImageView!
-    @IBOutlet weak var imgvHeader1: UIImageView!
-    @IBOutlet weak var imgvHeader2: UIImageView!
 
     override func viewDidLoad() {
         super.viewDidLoad()
